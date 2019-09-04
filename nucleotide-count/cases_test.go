@@ -1,4 +1,4 @@
-// package dna
+package dna
 
 // Source: exercism/problem-specifications
 // Commit: 879a096 nucleotide-count: Apply new "input" policy
